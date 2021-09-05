@@ -11,7 +11,8 @@ Playing with ruby
 
 ## Class names
 CamelCase
-```class CamelCaseClassName
+```
+class CamelCaseClassName
 	# code here
 end
 ```
@@ -23,7 +24,8 @@ snake_case
 `variable_name = "snake case"`
 
 ### Methods
-```def method_name
+```
+def method_name
 	# some code here
 end
 ```
