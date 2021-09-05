@@ -11,20 +11,20 @@ Playing with ruby
 
 ## Class names
 CamelCase
-    class CamelCaseClassName
+    `class CamelCaseClassName
       # code here
-    end
+    end`
 
 ## Variables, methods and Files
 snake_case
 
 ### Variables
-variable_name = "snake case"
+`variable_name = "snake case"`
 
 ### Methods
-    def method_name
+    `def method_name
       # some code here
-    end
+    end`
 
 ### Files
 this_is_a_sample_file_name.rb
