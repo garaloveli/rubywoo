@@ -13,7 +13,8 @@ Playing with ruby
 CamelCase
 ```class CamelCaseClassName
 	# code here
-end```
+end
+```
 
 ## Variables, methods and Files
 snake_case
@@ -24,7 +25,8 @@ snake_case
 ### Methods
 ```def method_name
 	# some code here
-end```
+end
+```
 
 ### Files
 this_is_a_sample_file_name.rb
