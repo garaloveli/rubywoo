@@ -11,9 +11,9 @@ Playing with ruby
 
 ## Class names
 CamelCase
-    `class CamelCaseClassName
-      # code here
-    end`
+```class CamelCaseClassName
+	# code here
+end```
 
 ## Variables, methods and Files
 snake_case
@@ -22,9 +22,9 @@ snake_case
 `variable_name = "snake case"`
 
 ### Methods
-    `def method_name
-      # some code here
-    end`
+```def method_name
+	# some code here
+end```
 
 ### Files
 this_is_a_sample_file_name.rb
